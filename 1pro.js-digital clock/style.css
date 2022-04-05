@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    outline: none;
+
+}
+body{
+    background: rgb(129, 195, 221);
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 88px;
+    font-size: 88px;
+    color: whitesmoke;
+}
+#digital_clock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 41px;
+    margin-top: 50px;
+    font-weight: 900;
+    color: rgb(22, 6, 6);
+
+}
